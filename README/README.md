@@ -1,3 +1,0 @@
-# DatabaseLabs
-
-![](images.png)
